@@ -6,7 +6,7 @@ I’m a Master’s student in **Business Intelligence & Data Analytics** at **Ca
 I’m interested in **statistical modeling, machine learning, and data-driven decision making**, and I’m seeking opportunities as a **Business Analyst, Data Scientist, or Data Analyst**.
 
 📍 Based in the U.S.  
-📧 Email: hangruan27@gmail.com  
+📧 Email: hangruan27@gmail.com     
 🔗 LinkedIn: https://www.linkedin.com/in/hang-ruan-963306205/
 
 ---
