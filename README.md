@@ -8,7 +8,7 @@ I’m interested in **statistical modeling, machine learning, and data-driven de
 📍 Based in the U.S.  
 📧 Email: hangruan27@gmail.com     
 🔗 LinkedIn: https://www.linkedin.com/in/hang-ruan-963306205/     
-📄 Resume: [Resume Hang Ruan](./Resume_Hang_Ruan_DS.pdf)
+📄 Resume: [Resume Hang Ruan](./Resume_Hang_Ruan.pdf)
 
 ---
 
