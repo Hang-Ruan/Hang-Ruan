@@ -1,4 +1,4 @@
-# Hi, I’m Billy Ruan 👋
+# Hi, I’m Hang (Billy) Ruan 👋
 
 ## About Me
 
