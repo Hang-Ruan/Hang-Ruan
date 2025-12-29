@@ -36,7 +36,7 @@ Developed end-to-end data pipelines and machine learning models for corporate cr
 Applied time-series and deep learning models to interest rate forecasting in support of corporate bond pricing and issuance decisions.
 
 **Caitong Securities Asset Management Co., Ltd - Equity Research Intern**    
-Conducted macroeconomic research on China and global equity markets and built DCF and COMPS valuation models for a public-listed company.
+Conducted macroeconomic research on global equity markets and built DCF and COMPS valuation models for a public-listed company.
 
 ---
 
