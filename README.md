@@ -6,8 +6,8 @@ I’m a Master’s student in **Business Intelligence & Data Analytics** at **Ca
 I’m interested in **statistical modeling, machine learning, and data-driven decision making**, and I’m seeking opportunities as a **Business Analyst, Data Scientist, or Data Analyst**.
 
 📍 Based in the U.S.  
-📧 Contact: hangruan27@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/hang-ruan-963306205/)
+📧 Email: hangruan27@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/hang-ruan-963306205/
 
 ---
 
@@ -34,7 +34,7 @@ Developed end-to-end data pipelines and machine learning models for corporate cr
 **China Merchants Securities — Capital Markets Intern**  
 Applied time-series and deep learning models to interest rate forecasting in support of corporate bond pricing and issuance decisions.
 
-**Caitong Securities Asset Management Co., Ltd - Equity Research Intern**
+**Caitong Securities Asset Management Co., Ltd - Equity Research Intern**    
 Conducted macroeconomic research on China and global equity markets and built DCF and COMPS valuation models for a public-listed company.
 
 ---
