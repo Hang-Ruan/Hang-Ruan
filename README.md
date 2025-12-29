@@ -52,8 +52,9 @@ Conducted macroeconomic research on China and global equity markets and built DC
 
 ## 🛠 Technical Skills
 
-- **Programming**: Python, SQL, R, Java  
-- **Data Science & ML**: Statistical Modeling, Machine Learning, Time Series, Deep Learning  
+- **Programming**: Python, SQL（Oracle、MySQL), Stata, R, Java  
+- **Machine Learning**: Ridge, Lasso, KNN, SVM, Random Forest, GBDT
+- **Deep Learning**: CNN，RNN（GRU、LSTM），GNN， Transformer，VAE，GAN
 - **Big Data**: Google BigQuery, Spark, Hadoop, Databricks, AWS, GCP  
 - **Visualization**: Tableau, Google Looker Studio, Power BI
 
